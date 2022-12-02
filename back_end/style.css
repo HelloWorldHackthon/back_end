@@ -1,0 +1,52 @@
+    .vt{
+    /* border: 2px solid black; */
+    width: 20%;
+    height: 50%;
+    text-align: center;
+    line-height: 50%;
+    display: inline-block;
+    margin-left: 30px;
+    }
+    h3{
+    font-weight: 400;
+    }
+    .line{
+    height: 3px;
+    background-color: azure;
+    width: 85%;
+    margin: auto;
+    }
+    p{
+    font-size: 40px;
+    font-weight: 900;
+    }
+    #main_line{
+    background-color: black;
+    height: 5px;
+    width: 95%;
+    margin: auto;
+    margin-bottom: 20px;
+    }
+    h3{
+    font-weight: 500;
+    }
+    html {
+    background: url("./data/1.png") no-repeat center center fixed;
+    -webkit-background-size: cover;   
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    mix-blend-mode: normal; 
+    }
+
+    #blank{
+    margin: 30px auto;
+    padding: auto;
+    }
+.foot{
+    font-size: 100px;
+    text-align: center;
+    font-weight: 600;
+    margin: auto;
+    margin-top:0px;
+}
